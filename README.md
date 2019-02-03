@@ -36,7 +36,7 @@ example</a> list on documentation.</p>
 <h4>**Community Edition**</h4>
 <p>The Community Edition is a available free of charge under the current project license. An
 <b>Enterprise Edition</b> (licensed per server instance) is available from me. <i>
-<b>You may send your request thru the CodePlex contact.</b></i><br>
+<b>You may send your request thru the GitHub contact.</b></i><br>
 The Enterprise Edition includes <b>extended features</b> like </p>
 <ul>
 <li>Unlimited number of InjectionDefinition on executes. </li><li>different execution mode to reduce update time on execution (OnDemand and Enforce)
